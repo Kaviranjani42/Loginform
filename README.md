@@ -25,5 +25,4 @@ Includes email and password input fields, validation, and a clean, user-friendly
 [Click here to view the project](https://your-username.github.io/your-repo-name/)
 
 
-```bash
-![Login Form Screenshot](./screenshot.png)
+

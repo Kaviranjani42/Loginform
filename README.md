@@ -24,5 +24,11 @@ Includes email and password input fields, validation, and a clean, user-friendly
 ## 🌐 Live Demo
 [Click here to view the project](https://github.com/Kaviranjani42/Loginform)
 
+## 🙋‍♀️ About Me
+**Kaviranjani**  
+React Developer passionate about creating clean, responsive, and user-friendly web applications.
+
+📧 [Email](mailto:kaviranjanipandian@gmail.com)
+
 
 
